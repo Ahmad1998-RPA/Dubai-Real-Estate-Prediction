@@ -13,6 +13,9 @@ data/
 datasets/
 input/
 models/
+.idea/
+client/
+server_1/
 
 # Ignore model files
 *.pkl
